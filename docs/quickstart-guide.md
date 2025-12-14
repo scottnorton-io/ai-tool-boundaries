@@ -1,5 +1,3 @@
-# quickstart-guide.md
-
 # Quick Start Guide
 
 Get your MCP security framework implementation running in under 2 hours.
