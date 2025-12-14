@@ -1,5 +1,3 @@
-# README.md
-
 # AI Tool Boundaries: A Defense-in-Depth Framework for MCP Security
 
 **A comprehensive security framework for deploying the Model Context Protocol in production environments**
@@ -232,7 +230,7 @@ Contributions welcome! Areas of particular interest:
 - Tool schema examples for common use cases
 - Metrics and KPIs from production MCP deployments
 
-See [CONTRIBUTING.md](http://CONTRIBUTING.md) for guidelines.
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 ## Related Work
 
@@ -243,7 +241,7 @@ See [CONTRIBUTING.md](http://CONTRIBUTING.md) for guidelines.
 
 ## License
 
-MIT License - See [LICENSE](LICENSE) for details.
+MIT License - See [LICENSE](./LICENSE) for details.
 
 This framework provides security guidance for deploying the Model Context Protocol. MCP itself is developed by Anthropic and others. This repository is independent and not officially affiliated with the MCP project.
 
