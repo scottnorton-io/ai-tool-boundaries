@@ -159,7 +159,7 @@ The framework implements defense-in-depth across five layers:
 
 The complete framework is available in the main paper:
 
-- [AI Tool Boundaries: A Defense-in-Depth Framework for MCP Security](paper.md)
+- [AI Tool Boundaries: A Defense-in-Depth Framework for MCP Security](./AI-Tool-Boundaries-A-Defense-in-Depth-Framework.md)
 
 ### Review Key Appendices
 
