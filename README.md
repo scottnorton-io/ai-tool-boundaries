@@ -165,7 +165,7 @@ The complete framework is available in the main paper:
 
 - [Appendix A: Tool Schema Template](./AI-Tool-Boundaries-A-Defense-in-Depth-Framework.md#appendix-a-tool-schema-template)
 - [Appendix B: Audit Event Schema](./AI-Tool-Boundaries-A-Defense-in-Depth-Framework.md#appendix-b-audit-event-schema)
-- [Appendix C: MCP Security Checklist](paper.md#appendix-c-mcp-security-checklist)
+- [Appendix C: MCP Security Checklist](./AI-Tool-Boundaries-A-Defense-in-Depth-Framework.md#appendix-c-mcp-security-checklist)
 
 ### Reference Implementation
 
